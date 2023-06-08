@@ -1,2 +1,2 @@
-# Basic-Banking-System_TSF-GRIP
-Sparks Foundation GRIP Internship Web Development Task#1
+# Task1bankingSystem
+Grip Task 1 Web Development, Batch -May
